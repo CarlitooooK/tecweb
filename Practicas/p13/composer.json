@@ -1,0 +1,18 @@
+{
+  "name": "tecweb/myapi",
+  "description": "API de productos con patrón PSR-4",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "TECWEB\\MYAPI\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Tu Nombre",
+      "email": "tu@email.com"
+    }
+  ],
+  "require": {}
+}
